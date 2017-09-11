@@ -17,8 +17,8 @@ int main(int argc, char *argv[])
 {
 	// std::map<int, std::string> table;
 	
-	// table[1] = "Paul Hindt";
-	// table[2] = "Laura Schug";
+	// table[1] = "Paul";
+	// table[2] = "Laura";
 	
 	// print_table(table);
 	
