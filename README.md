@@ -1,4 +1,7 @@
-# exercises
+# Programming Exercises
+Python
+- py-linked-list.py - basic singly linked list
+
 C and C++ Exercises
 - bitfield - example of bit field struct syntax and overflow in C
 - bitmask.cpp - RGB color example of bit masks
